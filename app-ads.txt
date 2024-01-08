@@ -17,6 +17,8 @@ conversantmedia.com, 100097, RESELLER, 03113cd04947736d
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 bidmachine.io, 138, RESELLER
 indexexchange.com, 194730, RESELLER
+improvedigital.com, 1209, RESELLER
+ionvogroup.com, 4737400844, RESELLER
 whildey.com, 5541841875, RESELLER
 adnuro.com, 2882096573, RESELLER
 newsusadigital.com, 1001719521, RESELLER
