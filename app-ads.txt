@@ -13,6 +13,7 @@ smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
 video.unrulymedia.com, 645663965, RESELLER
 pubnative.net, 1007974, RESELLER, d641df8625486a7b
 advertising.com, 23089, RESELLER
+smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
 advertising.com, 28605, RESELLER
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
 appnexus.com, 12637, RESELLER, f5ab79cb980f11d1
