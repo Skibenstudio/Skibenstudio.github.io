@@ -17,6 +17,8 @@ contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
 vidoomy.com, 7646534, DIRECT
 toponad.com, 1661f80179644e, RESELLER, 1d49fe424a1a456d
 freewheel.tv, 1603124, RESELLER
+axonix.com, 59054, RESELLER, bc385f2b4a87b721
+programmaticx.ai, 6845438, RESELLER
 video.unrulymedia.com, 827123801, RESELLER
 rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
