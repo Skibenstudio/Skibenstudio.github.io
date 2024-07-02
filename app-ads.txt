@@ -17,6 +17,8 @@ rubiconproject.com, 26510, RESELLER, 0bfd66d529a55807
 balloonlabs.ai, 5605588642, RESELLER
 webeyemob.com, 70628, RESELLER
 taurusx.com, 70628, RESELLER
+improvedigital.com, 2450, RESELLER
+improvedigital.com, 2451, RESELLER
 webeyemob.com, 80609, RESELLER
 taurusx.com, 80609, RESELLER
 caerulus.io, 3320-44758, RESELLER
