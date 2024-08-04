@@ -27,6 +27,9 @@ connatix.com, 1652500284288994, DIRECT, 2af98acdee0e81ed
 xandr.com, 13167, RESELLER
 lijit.com, 289960, RESELLER, fafdf38b16bf6b2b
 newsusadigital.com, 5221952768, RESELLER
+adingo.jp, 31054, RESELLER
+singularads, 548745, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 newsusadigital.com, 8346098398, RESELLER
 newsusadigital.com, 4575726290, RESELLER
 newsusadigital.com, 3136954787, RESELLER
