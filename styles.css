@@ -14,7 +14,7 @@ body {
 
 /* Header and Navigation */
 header {
-    background-color: #222;
+    background-color: #563a73;
     color: white;
     padding: 1rem 0;
 }
@@ -39,6 +39,17 @@ nav {
     gap: 2rem;
 }
 
+nav ul li a img.logo {
+    height: 40px; /* Adjust height as needed */
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+nav .logo {
+    height: 40px; /* Adjust size as needed */
+    margin-left: 42px;
+}
+
 .nav-links li {
     display: inline-block;
 }
@@ -58,7 +69,7 @@ nav {
 .hero {
     text-align: center;
     padding: 5rem 1rem;
-    background-image: linear-gradient(135deg, #4a90e2, #50c9c3);
+    background-image: linear-gradient(135deg, #c94ae2, #5086c9);
     color: white;
 }
 
